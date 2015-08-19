@@ -1,7 +1,8 @@
 #include<iostream.h>
 using namespace std;
-
-int r,a;
+{
+int r;
 cout<<"enter the radius ";
 cin>>>r;
+}
 
